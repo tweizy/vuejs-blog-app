@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": "6338",
+      "title": "New Post",
+      "body": "This is a new post",
+      "tags": [
+        "vue",
+        "api"
+      ]
+    }
+  ]
+}
